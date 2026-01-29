@@ -71,7 +71,7 @@ maze = [
 
 Clone the repository:
 
-git clone https://github.com/your-username/maze-solver-a-star.git
+git clone https://github.com/RekhaMath77/maze-solver-a-star.git
 
 
 Navigate to the project folder:
